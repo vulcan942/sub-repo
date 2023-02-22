@@ -1,3 +1,3 @@
 # sub-repo
 
-This code was added in dev branch
+This code was added in dev branch updated
